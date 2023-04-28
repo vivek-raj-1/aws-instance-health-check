@@ -18,7 +18,7 @@ Finally, the alert_trigger() function sends a Slack alert containing the instanc
 
   
 
-## ✨ Start the app in Docker
+## ✨ Start the app
 
 > **Step 1** - Download the code from the GH repository (using `GIT`) 
 
