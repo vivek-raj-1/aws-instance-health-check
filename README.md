@@ -25,7 +25,7 @@ Finally, the alert_trigger() function sends a Slack alert containing the instanc
 ```bash
 $ # Get the code
 $ git clone https://github.com/vivek-raj-1/aws-instance-health-check.git
-$ cd iaws-instance-health-check
+$ cd aws-instance-health-check
 ```
 
 <br />
